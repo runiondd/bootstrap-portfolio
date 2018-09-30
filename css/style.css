@@ -105,8 +105,7 @@ img {
 }
 
 .footer {
-    position: absolute;
-    bottom: 0;
+
     background-color: #666666;
     border-top: 8px solid #4aaaa5;
     text-align: center;
