@@ -50,9 +50,7 @@ h1{
 }
 
 .headerLinks {
-    position: absolute;
-    left: 900px;
-    float: left;
+
     margin-top: 30px;
 }
 
@@ -110,11 +108,10 @@ img {
     position: absolute;
     bottom: 0;
     background-color: #666666;
-    width: 100%;
-    height: 35px;
     border-top: 8px solid #4aaaa5;
     text-align: center;
-    vertical-align: text-bottom;
+    width: 100%;
+
 }
 
 
@@ -164,9 +161,9 @@ input[type=submit] {
     height: 30px;
     text-align: center;
     color: white;
+}
 
-    
-    : 
-
-
+.portfolioCard {
+     background-color: #4aaaa5;
+      color: white;
 }
