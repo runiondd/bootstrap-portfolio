@@ -105,7 +105,6 @@ img {
 }
 
 .footer {
-
     background-color: #666666;
     border-top: 8px solid #4aaaa5;
     text-align: center;
@@ -156,7 +155,7 @@ input[type=submit] {
     background-color: #4aaaa5;
     margin: 20px;
     width: 200px;
-    height: 30px;
+    height: 50px;
     text-align: center;
     color: white;
 }
@@ -164,6 +163,10 @@ input[type=submit] {
 .portfolioCard {
      background-color: #4aaaa5;
       color: white;
+}
+
+.portfolioCard a {
+    color: white;
 }
 
 .red{
